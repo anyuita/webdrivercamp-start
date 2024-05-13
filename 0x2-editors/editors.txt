@@ -1,0 +1,6 @@
+7 The command to insert text before the cursor is: i (or I, at beginning of line). The command to insert text after the cursor is: a (or A, at end of line).
+8 The command to delete and cut the current line is: dd
+10 The command to undo what you just did is: u
+11 The command to quit Vi even though the latest changes haven't been saved for this Vi call is: :q!
+12 The command to move the cursor to the start of the current line is: 0 or ^
+13 The command to move the cursor to the end of the line is: $
